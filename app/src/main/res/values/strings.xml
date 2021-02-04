@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">13.AcdHmwCustomViewAndViewGroup</string>
+    <string name="main_logo_image">Main logo image</string>
+
+    <string name="price_uan"> %1$.2f UAN</string>
+
+    <string name="title_film_the_boss_baby">The Boss Baby</string>
+    <string name="category_film_the_boss_baby">The Boss Baby</string>
+    <string name="category_the_boss_baby">Animation</string>
+    <string name="price_the_boss_bay">250.00 UAN</string>
+    <string name="title_the_boss_baby">The Boss Baby</string>
+    <string name="set_new_info">Set new data</string>
+    <string name="go_to_fun">Go to fun</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+</resources>

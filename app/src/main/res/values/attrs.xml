@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomCardView">
+        <attr name="iv_poster" format="reference"/>
+        <attr name="tv_title" format="string"/>
+        <attr name="tv_category" format="string"/>
+        <attr name="rating_bar" format="float"/>
+        <attr name="tv_price" format="string"/>
+    </declare-styleable>
+</resources>

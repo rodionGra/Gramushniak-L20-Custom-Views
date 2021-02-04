@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_main_info_view_group_layout_width">200dp</dimen>
+    <dimen name="card_main_info_view_group_layout_height">400dp</dimen>
+    <dimen name="card_main_info_view_group_iv_poster_marginHorizontal">4dp</dimen>
+    <dimen name="card_main_info_view_group_iv_poster_height">300dp</dimen>
+    <dimen name="activity_main_btn_go_to_fun">40dp</dimen>
+    <dimen name="activity_fun_rotation_img_size">200dp</dimen>
+</resources>
